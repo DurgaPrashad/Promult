@@ -4,6 +4,9 @@
 ### Overview
 This platform connects online stores, like Shopify, to Amazon’s Multi-Channel Fulfillment (MCF) service, enabling businesses to easily use Amazon's logistics network for storing inventory and fulfilling orders across multiple sales channels. The system is designed to streamline e-commerce operations, minimize errors, and provide a smooth integration with Amazon's MCF API with minimal coding effort required from business owners.
 
+![image](https://github.com/user-attachments/assets/3559a829-d5de-4b5a-ab1e-1fc4fd60ce9d)
+
+
 ### Key Features:
 - **Real-Time Inventory Syncing**: Keep inventory data synchronized between the store and Amazon MCF to avoid discrepancies.
 - **Order Management**: Automate order creation, tracking, and invoicing through Amazon's MCF API.
@@ -62,6 +65,8 @@ To create a central hub (plugin or system) that connects any online store with A
 5. **User Interface Improvements**
     - **UI/UX Enhancements**: Continue refining the user interface to make the platform even more intuitive for non-technical business owners.
     - **Real-Time Notifications**: Add notifications for inventory updates, order statuses, and SLA compliance to keep businesses informed at every step.
+![WhatsApp Image 2024-11-14 at 17 59 57_39189b46](https://github.com/user-attachments/assets/c28138e1-3078-491e-8ec3-3044c9886c89)
+
 
 ### Tech Stack
 - **Backend**: Node.js with Express
